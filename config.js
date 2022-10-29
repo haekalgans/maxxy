@@ -11,7 +11,7 @@ global.kontak = ['6285380166282']
 //  INFO BOT 
 global.naown = 'KAHFI MAKER'
 global.noown = '6285380166282'
-global.namebot = 'Yt Maxxy Botz'
+global.namebot = 'HAGAN BOT'
 global.nobot = '6285295374964'
 
 //  URL SOSMED
